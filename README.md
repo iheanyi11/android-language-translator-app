@@ -8,7 +8,7 @@ To use the app, open it and select your source and target languages from the dro
 
 My purpose was to go beyond console applications and understand how real mobile apps work, how layouts are defined in XML, how Java code connects to UI elements, how screens navigate between each other using Intents, and how third-party libraries are added and used in an Android project.
 
-[Software Demo Video](http://youtube.link.goes.hhttps://youtu.be/TdI3NnjvNw4)
+[Software Demo Video](https://youtu.be/TdI3NnjvNw4)
 
 # Development Environment
 
